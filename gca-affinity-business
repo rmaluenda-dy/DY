@@ -1,0 +1,28 @@
+{
+  "categories": {
+    "Lounges": 150,
+    "Transport": 80,
+    "Parking": 110,
+    "Planning": 20,
+    "Accessibility": 5,
+    "Shopping": 10
+  },
+  "international_domestic": {
+    "international": 180,
+    "domestic": 120
+  },
+  "cities": {
+    "Gold Coast": 5,
+    "Bali": 60,
+    "Adelaide": 20,
+    "Auckland": 100
+  },
+  "keywords": {
+    "lounges": 180,
+    "parking: 110,
+    "shopping": 15,
+    "destination": 80,
+    "children": 15,
+    "accessibility": 5
+  }
+}
