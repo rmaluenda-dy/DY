@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "Mother & Baby": 450,
+    "Toiletries": 290,
+    "Skincare": 200,
+    "Vitamins": 120,
+    "Diet & Nutrition": 70,
+    "Hair": 120,
+    "Makeup": 180
+  },
+  "Brand": {
+    "MooGoot": 15,
+    "Ego QV": 80,
+    "Huggies": 320,
+    "Curash": 120,
+    "Nestle": 200,
+    "Aptamil": 240,
+    "Atkins": 100,
+    "Blackmores": 200,
+    "Swisse": 100,
+    "Colgate": 100,
+    "Nivea": 150,
+    "Veet": 30
+    
+  },
+    "catalogue_item": {
+    "Yes": 450,
+    "No: 120
+  },
+  "member_exclusive": {
+    "Yes": 500,
+    "No: 280
+  }
+}
