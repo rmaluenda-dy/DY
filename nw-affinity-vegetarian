@@ -1,0 +1,39 @@
+{
+  "categories": {
+    "Snack Foods": 50,
+    "Chips": 20.0,
+    "Popcorn": 60.0,
+    "Soft Drinks": 50.0,
+    "Biscuits": 25.0
+  },
+	"brand": {
+		"Nestle": 20.0,
+		"Pringles": 70.0,
+		"Just Juice": 20.0,
+    "NZ Natural": 50.0
+	},
+  	"Special": {
+		"Yes": 100.0,
+    "No": 200.0
+	},
+  	"Cat1": {
+		"Cold Drinks": 160.0,
+		"Hot Drinks": 190.0,
+		"Butchery": 0.0,
+		"Meat": 0.0,
+		"Snack Foods": 50.0
+	},
+  	"Cat2": {
+		"Vegetarian": 300.0,
+		"Fruit": 230.0,
+		"Meat Free": 190.0,
+		"Baking Mixes": 0.0,
+		"Cakes": 0.0
+	},
+	"keywords": {
+		"Vegetarian": 200.0,
+    "Meat": 0.0,
+    "Kids": 90.0,
+    "Baking": 0.0
+	}
+}
