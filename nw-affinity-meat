@@ -1,0 +1,42 @@
+{
+  "categories": {
+    "Snack Foods": 50,
+    "Chips": 20.0,
+    "Popcorn": 10.0,
+    "Soft Drinks": 110.0,
+    "Biscuits": 45.0
+  },
+	"brand": {
+		"Nestle": 20.0,
+		"Doritos": 40.0,
+		"Pringles": 70.0,
+		"Pepsi Max": 100.0,
+		"Mother": 40.0,
+		"Just Juice": 20.0,
+    "NZ Natural": 50.0
+	},
+  	"Special": {
+		"Yes": 200.0,
+    "No": 100.0
+	},
+  	"Cat1": {
+		"Cold Drinks": 190.0,
+		"Hot Drinks": 120.0,
+		"Butchery": 290.0,
+		"Meat": 300.0,
+		"Snack Foods": 50.0
+	},
+  	"Cat2": {
+		"Vegetarian": 10.0,
+		"Fruit": 20.0,
+		"Meat Free": 0.0,
+		"Baking Mixes": 0.0,
+		"Cakes": 0.0
+	},
+	"keywords": {
+		"Vegetarian": 0.0,
+    "Meat": 250.0,
+    "Kids": 10.0,
+    "Baking": 0.0
+	}
+}
