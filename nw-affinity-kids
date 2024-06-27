@@ -3,6 +3,7 @@
     "Snack Foods": 250,
     "Lunch Box": 350,
     "Chips": 120.0,
+    "Bread Rolls": 360.0,
     "Popcorn": 260.0,
     "Soft Drinks": 50.0,
     "Biscuits": 125.0
@@ -34,7 +35,7 @@
 	"keywords": {
 		"Vegetarian": 40.0,
     "Meat": 220.0,
-    "Kids": 410.0,
+    "Kids": 310.0,
     "Baking": 90.0
 	}
 }
