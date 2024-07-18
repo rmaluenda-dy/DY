@@ -1,13 +1,13 @@
 {
   "categories": {
-    "Cards": 60,
+    "Cards": 90,
     "Loans": 30,
-    "Articles": 90.0,
+    "Articles": 80.0,
     "Offers": 10.0
   },
   "brand": {
-    "Mastercard": 80,
-    "Visa": 30,
+    "Mastercard": 90,
+    "Visa": 10,
     "CreditLine": 0.0,
     "David Jones": 0.0
   },
@@ -27,7 +27,7 @@
     "Harvey Norman": 0.0
   },
 	"keywords": {
-	"Travel": 100.0,
+	"Travel": 150.0,
     	"Medical": 10.0,
     	"Home Renovation": 0.0,
     	"Flexiroam": 80.0,
