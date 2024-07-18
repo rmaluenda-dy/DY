@@ -1,0 +1,37 @@
+{
+  "categories": {
+    "Cards": 60,
+    "Loans": 30,
+    "Articles": 90.0,
+    "Offers": 10.0
+  },
+  "brand": {
+    "Mastercard": 80,
+    "Visa": 30,
+    "CreditLine": 0.0,
+    "David Jones": 0.0
+  },
+  "offer_category": {
+    "Furniture": 60,
+    "Appliances": 30,
+    "Travel": 90.0,
+    "Fashion": 10.0
+  },
+  "offers": {
+    "Apple": 60,
+    "JB Hi-Fi": 30,
+    "Amazon": 90.0,
+    "Officeworks": 90.0,
+    "The Good Guys": 90.0,
+    "Luxury Escapes": 90.0,
+    "Harvey Norman": 90.0
+  },
+	"keywords": {
+		"Travel": 40.0,
+    "Medical": 220.0,
+    "Home Renovation": 310.0,
+    "Flexiroam": 90.0,
+    "Apple": 90.0,
+    "Car": 90.0,
+	}
+}
