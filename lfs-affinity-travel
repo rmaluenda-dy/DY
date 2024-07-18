@@ -12,26 +12,26 @@
     "David Jones": 0.0
   },
   "offer_category": {
-    "Furniture": 60,
-    "Appliances": 30,
+    "Furniture": 0.0,
+    "Appliances": 10,
     "Travel": 90.0,
-    "Fashion": 10.0
+    "Fashion": 40.0
   },
   "offers": {
-    "Apple": 60,
-    "JB Hi-Fi": 30,
-    "Amazon": 90.0,
-    "Officeworks": 90.0,
-    "The Good Guys": 90.0,
-    "Luxury Escapes": 90.0,
-    "Harvey Norman": 90.0
+    "Apple": 50,
+    "JB Hi-Fi": 60,
+    "Amazon": 50.0,
+    "Officeworks": 20.0,
+    "The Good Guys": 30.0,
+    "Luxury Escapes": 120.0,
+    "Harvey Norman": 0.0
   },
 	"keywords": {
-		"Travel": 40.0,
-    "Medical": 220.0,
-    "Home Renovation": 310.0,
-    "Flexiroam": 90.0,
-    "Apple": 90.0,
-    "Car": 90.0,
+		"Travel": 100.0,
+    "Medical": 10.0,
+    "Home Renovation": 0.0,
+    "Flexiroam": 80.0,
+    "Apple": 50.0,
+    "Car": 0.0,
 	}
 }
